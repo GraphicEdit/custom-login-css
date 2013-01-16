@@ -4,7 +4,7 @@ Plugin Name: Custom Login Css
 Description: With this plugin you add the header and footer to your login page
 Version: 1.0.0
 Author: GraphicEdit
-Author URI: http://www.graphicedit.com/
+Author URI: http://graphicedit.com/
 
 	Copyright 2011  GraphicEdit  (email : contact@graphicedit.com)
 
