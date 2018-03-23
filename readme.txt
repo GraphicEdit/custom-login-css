@@ -3,10 +3,17 @@
 Contributors: graphicedit
 Donate link: http://graphicedit.com/
 Tags: custom login, login page, custom page, header and footer
+<<<<<<< HEAD
 
 Requires at least: 3.1
 Tested up to: 3.2
 Stable tag: 1.0.1
+=======
+ 
+Requires at least: 3.1
+Tested up to: 3.0
+Stable tag: 1.0.0
+>>>>>>> 36aff6d7f38a18a9dd65d0fb80a7969aa5c6c0ac
 
 Adding the header and footer to your login page.
 
