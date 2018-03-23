@@ -2,7 +2,7 @@
 /*
 Plugin Name: Custom Login Css
 Description: With this plugin you add the header and footer to your login page
-Version: 1.0.0
+Version: 1.0.1
 Author: GraphicEdit
 Author URI: http://graphicedit.com/
 
@@ -25,13 +25,13 @@ Author URI: http://graphicedit.com/
 */
 
 function custom_login_css_footer() {
-	
+
 	if ( ! is_admin() ) {
-	
-	$style = get_option('custom_login_css_style'); 
+
+	$style = get_option('custom_login_css_style');
 	echo $style;
 	return;
-     
+
 	} else {
      return;
 	}
@@ -40,12 +40,11 @@ function custom_login_css_footer() {
 
 
 function custom_login_css_options() {
-	
+
 		add_options_page('Custom Login Css', 'Custom Login Css', 'manage_options', 'custom-login-css/options.php');
-	
-}	
-	
-		
+
+}
+
+
 add_action( 'login_footer', 'custom_login_css_footer' );
 add_action( 'admin_menu', 'custom_login_css_options');
-
