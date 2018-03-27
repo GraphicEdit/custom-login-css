@@ -1,25 +1,18 @@
 === Custom Login Css ===
 
 Contributors: graphicedit
-Donate link: http://graphicedit.com/
+Donate link: http://graphicedit.com/ 
 Tags: custom login, login page, custom page, header and footer
-<<<<<<< HEAD
-
-Requires at least: 3.1
-Tested up to: 3.2
-Stable tag: 1.0.1
-=======
  
-Requires at least: 3.1
-Tested up to: 3.0
-Stable tag: 1.0.0
->>>>>>> 36aff6d7f38a18a9dd65d0fb80a7969aa5c6c0ac
+Requires at least: 4.9.4
+Tested up to: 4.9 
+Stable tag: 1.0.1
 
 Adding the header and footer to your login page.
 
 == Description ==
 
-Designed for users which want to include the header and footer to the login page. You can also change the design.
+Designed for users which want to include the header and footer to the login page. You can also change the design. 
 
 Links: [Author Homepage](http://graphicedit.com/)
 
